@@ -10,7 +10,7 @@ These presentations use [Marp](https://marp.app/) for its slides:
 pnpm -g install @marp-team/marp-cli
 ```
 
-You can serve it as such:
+You can serve it as such (from top-level directory):
 
 ```console
 marp --html -w -s .
