@@ -2,16 +2,4 @@
 
 FreeBSD S0ix presentation for BSDCan 2025.
 
-## Building
-
-This presentation uses [Marp](https://marp.app/) for its slides:
-
-```console
-npm -g install @marp-team/marp-cli
-```
-
-You can serve it as such:
-
-```console
-marp --html -w -s .
-```
+Please defer to `../asiabsd26`, as it is more up to date.
